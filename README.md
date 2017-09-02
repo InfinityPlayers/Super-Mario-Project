@@ -66,3 +66,11 @@ Do your project and commit to this repository. Share with the world what you bui
 ---
 
 Made with :heart:
+
+<p align="center"> 
+  <br>
+  <br> 
+  <img src="http://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Retro-Mario-2-icon.png" width="50"> 
+  <br>
+  <br> 
+</p>
