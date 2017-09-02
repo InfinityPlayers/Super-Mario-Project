@@ -54,9 +54,14 @@ If we put this super :cool: analogy in our ~ _Dev Life_ ~, makes total sense. W
 
 I know, you are total crazy to do it :stuck_out_tongue:.
 
-### Just do it
+#### Just do it
 
-Do your project and commit to this repository.
+Do your project and commit to this repository. Share with the world what you build :D
+
+#### Rules
+
+- Create a new branch with the initials ``` SMP-foo ``` (**S**uper **M**ario **P**roject)
+- Your project must have a demo inside GitHub Pages or your site, SHARE YOUR PROJECT.
 
 ---
 
