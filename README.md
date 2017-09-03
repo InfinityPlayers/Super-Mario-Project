@@ -2,16 +2,18 @@
   <img src="http://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Retro-Mario-2-icon.png" width="150"> 
 </p>
 
-## :cyclone: S U P E R M A R I O - P R O J E C T :cyclone: 
+# :cyclone: S U P E R M A R I O - P R O J E C T :cyclone:
 
+## Projects
+
+List of all the projects we have been doing
+
+- :soon:
 
 ## :cactus: About
 
 Welcome to the **Super Mario Project (_Powered by EBANX Infinity Game_)**, this is a project based on the Super Mario World like as you can notice XD.
 The main point about this project is to develop our skill building any Front-End project that we want, from a very simple thing to a nice one.
-
----
-
 
 ## :cactus: Motivation
 
