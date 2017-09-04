@@ -6,7 +6,7 @@
 
 ## Projects
 
-List of all the projects we have been doing
+List of all the projects we already did
 
 - :soon:
 
