@@ -17,7 +17,7 @@ The main point about this project is to develop our skill building any Front-End
 
 ## :cactus: Motivation
 
-Every(_almost_) week at [@EBANX](https://github.com/ebanx), we have a meeting called *Infinity* where our Front-End team discuss subjects about Front-End Development, what we learned and want to share with each other. It's a nice meeting to be updated about technologies and more important, to have a great and healthy interation with the team.
+Every(_almost_) week at [@EBANX](https://github.com/ebanx), we have a meeting called *Infinity* where our Front-End team discuss subjects about Front-End Development, what we learned and want to share with each other. It's a nice meeting to be update about technologies and more important, to have a great and healthy interation with the team.
 
 In one of these meetings, we discuss about to go more further to improve our skills and we had an agreement to bring a new project, every single month. It can be a _huge_ / _small_ / _simple_ / _nice_ / _great_ project (**just do it**), it's just to be always a better developer. **LET'S ROCK!** :rocket: :fire:
 
