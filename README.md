@@ -6,9 +6,9 @@
 
 ## Projects
 
-List of all the projects we already did
+List of all the projects we already did :computer:
 
-- :soon:
+- [Simple 3D Cube with title](https://codepen.io/brunob182/full/eEXNNZ "CodePen Project") - by [@brunob182](https://github.com/brunob182)
 
 ## :cactus: About
 
