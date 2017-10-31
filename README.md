@@ -10,6 +10,7 @@ List of all the projects we already did :computer:
 
 - [Simple 3D Cube](https://codepen.io/brunob182/full/eEXNNZ "CodePen Project") - by [@brunob182](https://github.com/brunob182)
 - [CSS Grid Study Case](https://codepen.io/brunob182/pen/wrZeBe) - by [@brunob182](https://github.com/brunob182)
+- [Simple EBANX Loading](https://codepen.io/celsofabri/pen/LjXOXb) - by [@celsofabri](https://github.com/celsofabri)
 
 ## :cactus: About
 
